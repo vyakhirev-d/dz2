@@ -3,13 +3,17 @@
   margin: 0 auto;
   text-align: center;
 }
-.title-1{
-  padding-bottom: 20px;
+img{
+  width: 610px;
 }
 p{
   text-align: left;
   padding-bottom: 20px;  
-}
+} 
+
+.title-1{
+  padding-bottom: 20px;
+}  
 .text-1 span{
   text-decoration: underline;
   color: blue;
