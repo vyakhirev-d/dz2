@@ -1,12 +1,4 @@
-body{
-  text-align: center;
-}
-h1{
-  font-size: 60px;
-}
-p{
-  font-style: italic;
-  font-size: 24px;
-  font-weight: 700;
-  
+.wrapper {
+  width: 1200px;
+  margin: 0 auto; 
 }
