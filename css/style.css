@@ -1,4 +1,50 @@
 .wrapper {
   width: 1200px;
-  margin: 0 auto; 
+  margin: 0 auto;   
+}
+.title-1{
+  text-align: center;
+   padding-bottom: 20px;
+}
+p{
+ padding-bottom: 20px;  
+}
+.text-1 span{
+  text-decoration: underline;
+  color: blue;
+}
+.list-1{
+  margin-left: 30px;
+  padding-bottom: 40px;
+}
+.text-4{
+  font-style: italic;
+  padding-top: 20px;
+}
+.img-1{
+  padding-bottom: 10px;
+}
+.title-2{
+  text-align: center;
+  padding-bottom: 10px;
+}
+.list-2{
+  margin-left: 30px;
+  padding-bottom: 20px;
+}
+.title-3{
+  text-align: center;
+  padding-bottom: 20px;
+}
+.text-5{
+  padding-bottom: 10px;
+}
+.img-2{
+  padding-bottom: 10px;
+}
+.title-4{
+  padding-bottom: 10px;
+}
+.img-3{
+  padding-bottom: 10px;
 }
